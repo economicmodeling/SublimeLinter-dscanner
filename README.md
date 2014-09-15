@@ -5,9 +5,9 @@ D-Scanner integration for SublimeLinter
 
 ### Installation
 
-1. Install [SublimeLinter](http://www.sublimelinter.com/en/latest/installation.html)
-2. Install [D-Scanner](https://github.com/Hackerpilot/Dscanner) and place the executable on your PATH.
-3. Download SublimeLinter-dscanner: ```
-cd ~/.config/sublime-text-3/Packages
-git clone https://github.com/economicmodeling/SublimeLinter-dscanner.git
-```
+<ol>
+<li>Install <a href="http://www.sublimelinter.com/en/latest/installation.html">SublimeLinter</a></li>
+<li>Install <a href="https://github.com/Hackerpilot/Dscanner">D-Scanner</a> and place the executable on your PATH.</li>
+<li>Download SublimeLinter-dscanner:<code><pre>cd ~/.config/sublime-text-3/Packages
+git clone https://github.com/economicmodeling/SublimeLinter-dscanner.git</pre></code></li>
+</ol>

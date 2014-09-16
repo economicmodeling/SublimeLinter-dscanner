@@ -3,6 +3,8 @@ SublimeLinter-dscanner
 
 D-Scanner integration for SublimeLinter
 
+![screenshot](screenshot.png "This code is crap!")
+
 ### Installation
 
 <ol>
